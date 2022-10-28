@@ -1,12 +1,12 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import Counters from './components/counters';
+import OnlineStore from './components/online-store';
 
 
 function App() {
   return (
     <div className="container">
-      <Counters></Counters>
+      <OnlineStore></OnlineStore>
     </div>
   );
 }
