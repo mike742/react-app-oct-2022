@@ -48,6 +48,7 @@ class OnlineStore extends Component {
         return (
             <React.Fragment>
                 <Navbar totalCounters={this.state.counters.filter((c) => c.value > 0).length}></Navbar>
+                <hr />
                 <Counters
                     counters={this.state.counters}
                     onReset={this.handleReset}
