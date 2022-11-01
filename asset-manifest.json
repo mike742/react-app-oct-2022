@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mike742.github.io/react-app-oct-2022/static/css/main.2c3d204e.css",
+    "main.js": "/mike742.github.io/react-app-oct-2022/static/js/main.14d04be6.js",
+    "static/js/787.093626a2.chunk.js": "/mike742.github.io/react-app-oct-2022/static/js/787.093626a2.chunk.js",
+    "index.html": "/mike742.github.io/react-app-oct-2022/index.html",
+    "main.2c3d204e.css.map": "/mike742.github.io/react-app-oct-2022/static/css/main.2c3d204e.css.map",
+    "main.14d04be6.js.map": "/mike742.github.io/react-app-oct-2022/static/js/main.14d04be6.js.map",
+    "787.093626a2.chunk.js.map": "/mike742.github.io/react-app-oct-2022/static/js/787.093626a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3d204e.css",
+    "static/js/main.14d04be6.js"
+  ]
+}
